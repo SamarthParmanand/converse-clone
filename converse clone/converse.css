@@ -1,0 +1,70 @@
+#maintr{background-color: rgb(219, 219, 219); height: 2cm; width:50.3cm; text-align: center;}
+#logo{height:180px; width:320px}
+#navigation{padding:10px; font-size: 2.5ch; font-family: 'Lucida sans'; font-weight: bold; margin-left: 10%; margin-right: 10%; }
+.navilogo{height: 50px; width: 50px;}
+#cust{width: 50%}
+#searchlogo{height:15px; width:15px}
+input[type=search]{width: 60%; margin:15px; margin-left: 15%};
+#section1{padding:10px; margin-left: 10%; margin-right: 10%}
+
+#home3{height:660;width:900; margin-left:10% }
+#home3text{width:50%;background-color: black; color:white; margin-right: 10%; text-align:center;}
+#homeh1{font-family: sans-serif; font-size: 1.25cm;}
+.sbs{margin-left: 10%;}
+#sbslink{font-size: 2ch; margin-left: 10%;} 
+#arrow{height: 40; width:40; margin-left: 10%;}
+.shopbystyle{margin-left: 10%; margin-right: 10%;}
+.kicks{height:430; width:360;;}
+.gender{height:675;width:720}
+
+.tdsbs a:hover{font-size:3ch; color:black}
+
+.tdsbs a:hover img{opacity: 0.5;}
+
+#home3text a:hover{color:white;}
+
+.gender {font-size: 3ch; }
+.gender a:hover img{opacity: 0.5;}
+.gender a:hover{color:black; font-size: 2.1ch;}
+
+#navigation a:hover{font-size:1.75ch; color:black}
+#navigation a:hover img{height: 53px; width: 53px;}
+
+.rang img{height:550px; width:1450px}
+.rang a:hover img{opacity: 0.5;}
+
+#schoolimg{height:675; width:720}
+.school a:hover img{opacity: 0.5;}
+
+#schooltext h2{font-size: 1cm;}
+#schooltext {font-size: larger;}
+
+#shopbtn{background-color: black; color:white; height:50px; width: 100px; align:center; font-size: large;}
+
+#empty{width:20%}
+
+.mojmasti{width:13%}
+
+#msti { height:645; width:1440; color:white; font-size: 2ch; padding-left: 63%; margin-right:15%}
+#msti h2{font-size: 2cm;}
+#msti input{height: 50px; width:100px; color: Black; background-color: white; margin-left: 22%;}
+#msti a:hover input[alt=battan]{height:60px; width:120px; font-size: 2.25ch; margin-left: 20%;}
+#msti a:hover h1{color:brown}
+
+#prints{height:550px; width: 1440px; }
+
+#p1{font-size: 1.5cm}
+#p2{font-size: 2.5ch;}
+
+#kidshref input{height:55px; width:140px; background-color: black; color: white;}
+#kidshref a:hover input[alt=boton]{height:80px; width:100px}
+
+#nevermisstxt{font-size: 2cm; padding-top: 0;}
+#nevermiss{margin-left: 15%;height:550;width: 1440;background-color: grey; padding-left: 15%; padding-right: 15%; padding-bottom: 0%;}
+#emailupdates{height:30px; width:350px}
+#nevermissmail{height:55px; width:250px; color:whitesmoke; background-color: black;}
+
+#table1{border-collapse:separate;border: 1px solid black; border-left: 0; border-right: 0;}
+#table2{border: 1px solid black; border-top: 0;border-bottom: 0;}
+
+#explorediv{margin-left: 12%;}
